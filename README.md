@@ -29,3 +29,5 @@
 
 - I’m always open to new opportunities and collaborations. Feel free to reach out if you’d like to discuss tech, projects, or anything else!
 
+  
+
