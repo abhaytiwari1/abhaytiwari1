@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi there! 👋 I’m Abhay Tiwari, a passionate software developer with Specialization in full-stack development. I love contributing to open source projects, building innovative solutions, and sharing knowledge through blogging.
 
-<!--
-**abhaytiwari1/abhaytiwari1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Key Skills:
+Languages: Javascript,C/C++
+Frameworks/Libraries: React, Node.js
+Tools/Technologies: Git/Github
+Databases: MySQL, MongoDB
 
-Here are some ideas to get you started:
+📫 How to reach me:
+Email: abhaytiwari480@gmail.com
+LinkedIn: www.linkedin.com/in/abhay-tiwari-000462222
+Twitter: abhaytiwarii_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+Exploring real life full-stack projects
+Data Structures and Algorithms
+
+💬 Let’s Connect!
+I’m always open to new opportunities and collaborations. Feel free to reach out if you’d like to discuss tech, projects, or anything else!
+
