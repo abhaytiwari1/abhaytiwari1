@@ -21,7 +21,7 @@
 
 **🌱 Currently Learning:**
 
-- Exploring real life full-stack projects
+- Exploring real world full-stack projects
 
 - Data Structures and Algorithms
 
